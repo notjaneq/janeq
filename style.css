@@ -77,7 +77,7 @@ main .mainCard .header .social {
 }
 
 main .mainCard .header .social a {
-  color: black;
+  color: white;
   background: #1a1c1f;
   box-shadow: 20px 20px 60px #1a1c1f, -20px -20px 60px #1a1c1f;
   font-size: 3rem;
@@ -89,7 +89,7 @@ main .mainCard .header .social a {
 
 main .mainCard .header .lower .social a:hover {
   transform: 0.5s;
-  background-color: black;
+  background-color: white;
   color: #e0e0e0;
 }
 
@@ -126,7 +126,7 @@ main .mainCard .header .lower .buttons {
 }
 
 main .mainCard .header .lower .buttons a {
-  color: black;
+  color: white;
   text-decoration: none;
   font-size: 2rem;
   background-color: transparent;
