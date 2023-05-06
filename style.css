@@ -24,7 +24,7 @@ main .mainCard {
   height: 44rem;
   border-radius: 50px;
   background: #1a1c1f;
-  box-shadow: 20px 20px 60px #000000, -20px -20px 60px #000000;
+  box-shadow: 20px 20px 60px #1a1c1f, -20px -20px 60px #1a1c1f;
 
 }
 
@@ -78,7 +78,7 @@ main .mainCard .header .social {
 
 main .mainCard .header .social a {
   color: black;
-  background: #e0e0e0;
+  background: #1a1c1f;
   box-shadow: 20px 20px 60px #9c9c9c, -20px -20px 60px #bebebe;
   font-size: 3rem;
   padding: 0.6rem 1rem;
@@ -101,7 +101,7 @@ main .mainCard .header .lower {
   align-items: center;
   justify-content: center;
   border-radius: 50px;
-  background: #ffffff;
+  background: #1a1c1f;
   box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
   padding: 0.5rem 1.5rem;
   margin-top: 2rem;
@@ -142,7 +142,7 @@ main .mainCard .header .buttons a:nth-child(2) {
 
 main .mainCard .header .buttons a:hover {
   background-color: black;
-  color: #e0e0e0;
+  color: #1a1c1f;
 }
 
 /* RESPONSIVE CODE */
@@ -314,7 +314,7 @@ main .mainCard .header .buttons a:hover {
   width: 100%;
 
   opacity: 0.65;
-  background-color: #000000;
+  background-color: #1a1c1f;
 }
 
 .home-content {
@@ -358,7 +358,7 @@ main .mainCard .header .buttons a:hover {
   display: block;
   height: 4.8rem;
   width: 4.8rem;
-  background-color: #ffffff;
+  background-color: #1a1c1f;
   background-image: url(../images/icons/icon-arrow-down.svg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -411,7 +411,7 @@ html.loaded .home-content__main {
   padding: 10px;
   color: #fff;
   font-size: 14px;
-  background: #000000;
+  background: #1a1c1f;
 }
 
 
